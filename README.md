@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rushikeshsasamkar
-- 👀 I’m interested in Mechine Learning & Wed Developrment
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science & Wed Developrment.
+- 🌱 I’m currently learning Java Full Stack web developement.
 - 📫 Email=rushikeshsasamakar94@gmail.com
 
 <!---
