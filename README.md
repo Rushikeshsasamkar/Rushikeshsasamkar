@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Rushikeshsasamkar
-- 👀 I’m interested in Data Science & Wed Developrment.
-- 🌱 I’m currently learning Java Full Stack web developement.
-- 📫 Email=rushikeshsasamakar94@gmail.com
+Hi there 👋
+Here are some ideas to get you started:
 
-<!---
-Rushikeshsasamkar/Rushikeshsasamkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 I’m currently working on Reactjs.
+🌱 I’m currently learning frontend frameworks like react , vue and express js.
+👯 I’m looking to collaborate on tech startups
+
+📫 How to reach me: LinkedIn Account =>https://www.linkedin.com/in/rushikesh-sasamkar-92941a22b/
