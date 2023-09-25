@@ -1,8 +1,6 @@
 Hi there 👋
 
-🔭 I’m currently working on Reactjs.
-
-🌱 I’m currently learning frontend frameworks like react  and express js.
+🌱 I’m currently working on frontend frameworks like reactJS  and express js.
 
 👯 I’m looking to collaborate on tech startups
 
