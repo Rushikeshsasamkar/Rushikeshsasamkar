@@ -4,11 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack web developer
 ------------------------
 
-💻 As a Full-Stack Developer: - 🔧 Proficient in both front-end and back-end technologies, crafting seamless and responsive web applications. - 🚀 Experienced in building scalable and efficient APIs, ensuring optimal performance. - 🎨 Skilled in creating intuitive user interfaces with a keen eye for design and user experience.
+💻 As a Full-Stack Developer: 
+- 🔧 Proficient in both front-end and back-end technologies, crafting seamless and responsive web applications.
+- 🚀 Experienced in building scalable and efficient APIs, ensuring optimal performance.
+- 🎨 Skilled in creating intuitive user interfaces with a keen eye for design and user experience.
 
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio.com)
 * ✉️  You can contact me at [rushikeshsasamakar94@gmail.com](mailto:rushikeshsasamakar94@gmail.com)
-* 🧠  I'm learning Next JS, Vue JS and System design
+* 🧠  I'm learning Next JS, Vue JS, and System design
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
