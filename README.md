@@ -2,7 +2,7 @@
 <img align="center"  src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"></img>
 
 
-<p align="center">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hello GIF">
 
 
@@ -10,7 +10,7 @@
 
 ## Full-stack web developer
 
-</p>
+</div>
 
 💻 As a Full-Stack Developer: 
 - 🔧 Proficient in both front-end and back-end technologies, crafting seamless and responsive web applications.
