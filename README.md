@@ -42,7 +42,7 @@
 ## Badges
 
 <div align="center">
-<img src="https://camo.githubusercontent.com/64f5c42b63835392af14ed7a647a499f84f831d5b651002fed61c2a062d17d88/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d50726974616d3238383737267468656d653d746f6b796f6e69676874"></img>
+
 
 <img src="https://github.com/Rushikeshsasamkar/Rushikeshsasamkar/assets/44942941/6141e1a4-f81c-45b6-acdf-17efeb80f145"></img>
 
